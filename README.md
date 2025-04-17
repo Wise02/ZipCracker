@@ -1,4 +1,4 @@
-# ZipCracker 🔐💥
+# ZipCracker 🔐💥 
 
 **ZipCracker** is a Python-based GUI tool designed to perform brute-force password recovery on ZIP and RAR archives. This tool offers configurable character sets, wordlist support, and multi-threaded cracking with an intuitive Tkinter interface. It even lets you cancel long operations on the fly! ⚡️🚀
 
